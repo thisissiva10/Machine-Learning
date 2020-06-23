@@ -1,6 +1,6 @@
 ---
-title: "Statistical Machine Learning Assignment 3"
-author: "SIVASHANKAR-19203161"
+title: "RF vs SVM "
+author: "SIVASHANKAR"
 date: "11/04/2020"
 output:
   pdf_document: default
